@@ -62,7 +62,7 @@ st.markdown(
 
 <div class='title'>
 
-📄AI Resume Ranking Dashboard
+<h1>📄AI Resume Ranking Dashboard</h1>
 
 </div>
 
